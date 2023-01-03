@@ -1,0 +1,12 @@
+#Ingore Node Modules Folder.
+/node_modules
+
+#order project data folder
+/data_linkedin_b2c
+
+#order project js file
+b2c_linkedin.js
+
+
+
+

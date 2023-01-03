@@ -1,0 +1,559 @@
+i,school_domain,school_name
+0,365.advancedtraining.edu,advanced training school
+1,abbey.bac.edu,belmont abbey college
+2,abtech.edu,asheville realty group
+3,access.alamancecc.edu,alamance community college
+4,acd.ccac.edu,community college of allegheny county
+5,actx.edu,amarillo college
+6,advancedtraining.edu,advanced training institute
+7,ag.tamu.edu
+8,aggiemail.usu.edu,utah state university
+9,aggies.ncat.edu,north carolina a t state university
+10,alaska.edu,the university of alaska anchorage
+11,albanytech.edu,albany technical college
+12,allegany.edu,allegany college of maryland
+13,allentown.mccann.edu
+14,alum.rit.edu,the rit alumni association
+15,alumni.bloomu.edu,bloomsburg university
+16,alumni.ecu.edu
+17,ancilla.edu,ancilla college
+18,apps.schoolcraft.edu,schoolcraft college
+19,apps.schoolcrafy.edu,schoolcraft college
+20,appstate.edu,appalachian state university
+21,aptc.edu,australia pacific training coalition
+22,asu.edu
+23,atc.edu,aiken technical college
+24,auburn.edu,auburn university
+25,ayers.edu,ayers career college
+26,baker.edu,baker college
+27,bates.ctc.edu,bates technical college
+28,bconline.broward.edu,broward college
+29,beaconcollege.edu
+30,bears.shawu.edu,shaw university
+31,bears.unco.edu
+32,bellevuecollege.edu,bellevue college
+33,beltc.ctc.edu,central texas college
+34,bethelu.edu,bethel university
+35,bhcc.edu,bunker hill community college
+36,bics.fsw.edu
+37,binghamton.edu,binghamton university
+38,blinn.edu,blinn college
+39,bloome.edu,bloomsburg university
+40,bpc.edu,brewton  parker college
+41,bpcc.edu,bossier parish community college
+42,brandeis.edu,brandeis university
+43,brazosport.edu,brazosport college
+44,brightwood.edu
+45,broward.edu,broward college
+46,bryantstratton.edu,bryant stratton college
+47,bsu.edu,ball state university
+48,bu.edu,boston university
+49,bucs.fsw.edu,florida southwestern state college
+50,bulldogs.aamu.edu
+51,bulldogs.mgccc.edu,mississippi gulf coast community college
+52,byu.edu
+53,c-tec.edu
+54,cadet.marionmilitary.edu,marion military institute
+55,calc.edu,calc institute of technology
+56,calstatela.edu,california state university los angeles
+57,cameron.edu,cameron university
+58,carlisle.mccann.edu
+59,ccbcmd.edu,community college of baltimore county
+60,cccs.edu,colorado community college system
+61,cccti.edu,technical institute
+62,ccitrainin.edu
+63,ccitraining.edu,cci training center
+64,ccitraininig.edu
+65,ccitranint.edu,college of business and technology
+66,ccp.edu,community college of philadelphia
+67,ccri.edu,community college of rhode island
+68,ccsnh.edu,community college system of new hampshire
+69,ccsnh.students.edu,community college system of new hampshire
+70,centralaz.edu,central arizona college
+71,cfa.harvard.edu
+72,cfcc.edu
+73,charleston.miller-motte.edu,miller  motte technical college
+74,chesapeake.edu,chesapeake college
+75,chowan.edu,chowan university
+76,ciitraining.edu
+77,citadel.edu,the citadel
+78,cix.csi.cuny.edu
+79,clarion.edu
+80,clark.edu,clark college
+81,clemson.edu,clemson university
+82,cnm.edu,central new mexico community college
+83,coastal.edu,coastal carolina university
+84,coastalcarolina.edu,coastal carolina community college
+85,cobleskill.edu,suny cobleskill
+86,colin.edu,copiah  lincoln community college
+87,collinscollege.edu,collins college
+88,columbia.edu,columbia university
+89,columbiasouthern.edu,columbia southern university
+90,columbusstate.edu,columbus state university
+91,connorsstate.edu,connors state college
+92,cord.edu,concordia college minnesota
+93,cornell.edu
+94,cougarmail.collin.edu
+95,cougars.ccis.edu,columbia college
+95,cougars.ccis.edu,columbia college
+96,cps.edu
+97,crowder.edu,crowder college
+98,csinow.edu,computer systems institute
+99,css.edu
+100,cuw.edu
+101,cwu.edu,central washington university
+102,davidsonccc.edu,davidson college
+103,daytonastate.edu,daytona state college
+104,dc.edu,dominican college
+105,dcccd.edu,dallas county community college district
+106,desales.edu,desales university
+107,dm.duke.edu,duke university
+108,dragons.parisjc.edu
+109,drakestate.edu,jf drake state technical college
+110,drexel.edu,drexel university
+111,drexelmed.edu,drexel university
+112,dslcc.edu,dabney s lancaster community college
+113,duke.edu,duke university
+114,dxb.manipal.edu
+115,eagle.clarion.edu
+116,eagles.nccu.edu,north carolina central university
+117,eagles.usi.edu,university of southern indiana
+118,eagles.usm.edu,university of southern mississippi
+119,easternflorida.edu,eastern florida state college
+120,edison.edu,edison spa
+121,edmail.edcc.edu,edmonds community college
+122,edtech.mcc.edu
+123,eku.edu
+124,email.appstate.edu
+125,email.davenport.edu
+126,email.franklin.edu,franklin university
+127,email.grcc.edu,grand rapids community college
+128,email.itt-tech.edu,itt tech
+129,email.phoenix.edu,university of phoenix
+130,email.sc.edu
+131,email.vccs.edu,virginias community colleges
+132,eosc.edu,eastern oklahoma state college
+133,erau.edu
+134,everest.edu,everest institute
+135,faculty.miller-motte.edu,miller  motte technical college
+136,fau.edu,florida atlantic university
+137,faytechcc.edu,fayetteville technical community college
+138,fcps.edu,fairfax county public schools
+139,ferrum.edu,ferrum college
+140,fiu.edu
+141,fkcc.edu,florida keys community college
+142,fmuniv.edu,florida memorial university
+143,fordham.edu,fordham university
+144,forrestcollege.edu,forrest college
+145,forsythtech.edu,forsyth technical community college
+146,fscj.edu,florida state college at jacksonville
+147,fsw.edu,florida southwestern state college
+148,g.austincc.edu,austin community college district
+149,g.coastal.edu,coastal carolina university
+150,g.cofc.edu,college of charleston
+151,g.syr.edu,syracuse university
+152,geisinger.edu,geisinger medical center
+153,genesee.edu,genesee community college
+154,ggc.edu,georgia gwinnett college
+155,gm.sbac.edu,school board of alachua county
+156,gmatc.matc.edu,milwaukee area technical college
+157,gmu.edu
+158,go.minnstate.edu,minnesota state colleges
+159,go.northlandcollege.edu,northland community technical college
+160,go.olemiss.edu,university of mississippi
+161,go.sfcollege.edu
+162,go.tarleton.edu,tarleton state university
+163,grad.bryant.edu,bryant university
+164,gs.nmcc.edu
+165,gtcc.edu,guilford technical community college
+166,gwmail.gwu.edu
+167,gwu.edu
+168,halifaxcc.edu,halifax community college
+169,harpercollege.edu,harper college
+170,hawaii.edu,university of hawaii
+171,hawk.iit.edu,illinois institute of technology
+172,hccfl.edu,hillsborough community college
+173,hocking.edu,hocking college
+174,hptx.edu,highland park
+175,hputx.edu,howard payne university
+176,iastate.edu,iowa state university
+177,icprjc.edu,icpr junior college
+178,ict.edu,interactive college of technology
+179,indstate.edu,indiana state university foundation
+180,interface.edu,interface inc
+181,inverhills.edu,inver hills community college
+182,it.ucla.edu
+183,itt-tech.edu
+184,iup.edu
+185,iusb.edu
+186,ivytech.edu
+187,jagmail.southalabama.edu,university of south alabama
+188,jax.ufl.edu,university of florida
+189,jeffco.edu,jefferson college
+190,jhmi.edu,johns hopkins university
+191,jhuapl.edu,johns hopkins university applied physics laboratory
+192,kaplan.edu,kaplan inc
+193,kellogg.edu,kellogg community college
+194,kenan-flagler.unc.edu
+195,kent.edu
+196,knights.ucf.edu,university of central florida
+197,ladelta.edu,louisiana delta community college
+198,langston.edu,langston university
+199,laverne.edu,university of la verne
+200,lbcc.edu,long beach city college
+201,lccc.edu,lehigh carbon community college
+202,lccc.wy.edu,laramie county community college
+203,lcmail.lcsc.edu
+204,letu.edu
+205,lewisburg.mccann.edu
+206,lionmail.lindenwood.edu
+207,live.sscc.edu,southern state community college
+208,live.unc.edu,the university of north carolina at chapel hill
+209,live.ytech.edu,ytech international
+210,louisville.edu,university of louisville
+211,lssc.edu,lake  sumter community college
+212,macomb.edu,macomb community college
+213,mail.brandman.edu,brandman university
+214,mail.broward.edu,broward college
+215,mail.browrd.edu,broward college
+216,mail.cfcc.edu
+217,mail.ct.edu,connecticut state colleges and universities
+218,mail.dccc.edu,delaware county community college
+219,mail.harpercollege.edu,harper college
+220,mail.lcc.edu,lansing community college
+221,mail.lccc.edu
+222,mail.lipscomb.edu,lipscomb university
+223,mail.masters.edu,the masters university
+224,mail.mccneb.edu,metropolitan community college
+225,mail.midland.edu,midland college
+226,mail.missouri.edu,mizzou university of missouri
+227,mail.ncstatecollege.edu,north central state college
+228,mail.nmc.edu
+229,mail.regent.edu
+230,mail.rmu.edu
+231,mail.strayer.edu,strayer university llc
+232,mail.suscc.edu
+233,mail.uc.edu,university of cincinnati
+234,mail.umkc.edu
+235,mail.umw.edu,university of mary washington
+236,mail.usf.edu
+237,mail.valenciacollege.edu,valencia college
+238,mail.wcccd.edu,the wayne county community college district
+239,mail.weber.edu
+240,mail.yu.edu,yeshiva university
+241,maine.edu,university of maine
+242,manchestercc.edu,manchester community college
+243,manhattan.edu,manhattan college
+244,maricopa.edu
+245,marybaldwin.edu,mary baldwin university
+246,masonlive.gmu.edu
+247,mcc.edu
+248,mccneb.edu,metropolitan community college
+249,mchenry.edu,mchenry county college
+250,mclennan.edu,mclennan community college
+251,mcny.edu,metropolitan college of new york
+252,mctc.edu,mountwest community technical college
+253,med.umich.edu
+254,memphis.edu,university of memphis
+255,metrostate.edu,metropolitan state university
+256,miller-motte.edu,miller  motte technical college
+257,mineralarea.edu,mineral area college
+258,missouriwestern.edu,missouri western state university
+259,mlc-wels.edu,martin luther college
+260,mnstate.edu,minnesota state university mankato
+261,moc.edu,mark oliphant college
+262,monroecc.edu,mcc community college
+263,monroecollege.edu,monroe college
+264,monroecollge.edu,monroe college
+265,montgomerycollege.edu,montgomery college
+266,montreat.edu,montreat college
+267,morainevalley.edu,moraine valley community college
+268,mounties.mansfield.edu,mansfield university
+269,mpc.edu,monterey peninsula college
+270,mscc.edu,motlow state community college
+271,msstate.edu
+272,msudenver.edu,metropolitan state college
+273,mtc.edu,marion technical college
+274,mtsu.edu
+275,musc.edu,medical university of south carolina
+276,my.albemarle.edu
+277,my.anokaramsey.edu,anoka  ramsey community college
+278,my.anokatech.edu,anoka technical college
+279,my.athens.edu
+280,my.avemaria.edu,ave maria university
+281,my.bluecc.edu,blue mountain community college
+282,my.columbiasc.edu,city of columbia
+283,my.csun.edu,california state university northridge
+284,my.fit.edu
+285,my.fsu.edu,florida state university
+286,my.hennepintech.edu,hennepin technical college
+287,my.lccc.edu,lehigh carbon community college
+288,my.lonestar.edu
+289,my.lowercolumbia.edu,lower columbia college
+290,my.miller-motte.edu,miller  motte technical college
+291,my.minnesota.edu,university of minnesota
+292,my.monroeccc.edu
+293,my.ncwc.edu,north carolina wesleyan college
+294,my.palmbeachstate.edu,palm beach state college
+295,my.pittcc.edu,pitt community college
+296,my.polk.edu,polk state college
+297,my.sfcollege.edu
+298,my.sinclair.edu
+299,my.snhu.edu,southern new hampshire university
+300,my.southcollegetn.edu
+301,my.stlcc.edu,st louis community college
+302,my.strayer.edu,strayer university llc
+303,my.tccd.edu,tarrant county college
+304,my.unt.edu
+305,my.waketech.edu,wake technical community college
+306,my.wctc.edu,waukesha county technical college
+307,myanokaramsey.edu,anoka  ramsey community college
+308,mycampus.apus.edu,american public university system
+309,mylccc.edu,lehigh carbon community college
+310,mymail.centralpenn.edu,central penn college
+311,mymail.lccc.edu,lehigh carbon community college
+312,mymail.rcbc.edu
+313,mymail.stratford.edu
+314,myptc.edu
+315,mysnhu.edu
+316,nashcc.edu,nash community college
+317,natlcollege.edu,american national university
+318,navarrocollege.edu,navarro college
+319,ncsu.edu,nc state university
+320,nd.edu,university of notre dame
+321,netech.edu,northeast technology center
+322,newbury.edu,newbury college
+323,nmc.edu
+324,noeemail.edu
+325,northwestern.edu
+326,nsula.edu,northwestern state university
+327,nvcc.edu,northern virginia community college
+328,odu.edu,old dominion university
+329,ohiobusinesscollege.edu,ohio business college
+330,okstate.edu,oklahoma state university
+331,orangemail.okstate.edu
+332,ostatemail.okstate.edu,oklahoma state university
+333,osu.edu
+334,osuokc.edu,oklahoma state university
+335,otc.edu,ozarks technical community college
+336,ou.edu
+337,ovu.edu
+338,owlmail.harford.edu,harford community college
+339,pacifictech.edu,pacific institute of technology
+340,piratemail.cv.edu,kennebec valley community college
+341,pitt.edu,university of pittsburgh
+342,pittstate.edu,pittsburg state university
+343,plymouth.edu,plymouth state university
+344,pnw.edu,pacific northwest university of health sciences
+345,pointloma.edu,point loma nazarene university
+346,purdue.edu,purdue university
+347,pvcc.edu,piedmont virginia community college
+348,qcc.cuny.edu
+349,radford.edu
+350,rams.wssu.edu,winston  salem state university
+350,rams.wssu.edu,winston  salem state university
+351,rasmussen.edu,rasmussen college
+352,regiscollege.edu,regis university
+353,rider.edu,rider university
+354,rutgers.edu
+355,s.tcatcovington.edu,tennessee college of applied technology
+356,s.tcathartsville.edu,tennessee college of applied technology crossville
+357,s.tcatshelbyville.edu
+358,s.tcatwhiteville.edu,tcat whiteville
+359,salve.edu,salve regina university
+360,sandhills.edu,sandhills community college
+361,sandiego.edu,university of san diego
+362,sau.edu
+363,scciowa.edu,southeastern community college
+364,sccsc.edu,spartanburg community college
+365,school.edu,the new school
+366,schoolcraft.apps.edu,schoolcraft college
+367,schoolcraft.edu,schoolcraft college
+368,sctech.edu,southern crescent technical college
+369,sctoday.edu,stautzenberger college
+370,se.lbwcc.edu
+371,seattlecentral.edu,seattle central college
+372,seattlecolleges.edu,seattle university
+373,seu.edu,southeastern university
+374,sfcollege.edu
+375,shnu.edu,southern new hampshire university
+376,siena.edu,siena college
+377,siue.edu
+378,sjrstate.edu
+379,slcc.edu,salt lake community college
+380,smail.astate.edu,arkansas state university
+381,smu.edu
+382,snhu.edu,southern new hampshire university
+383,southeast.edu,southeast community college
+384,southern.edu,southern adventist university
+385,southseattle.edu,south seattle college
+386,southside.edu,southside virginia community college
+387,southtexascollege.edu,south texas college
+388,spartans.nsu.edu,norfolk state university
+389,spartans.ut.edu,university of tampa
+390,sscc.edu,southern state community college
+391,st-aug.edu,st augustine college
+392,st.nashcc.edu,nash community college
+393,stanford.edu
+394,stcc.edu,springfield technical community college
+395,stcloudstate.edu,st cloud state university
+396,stevens.edu
+397,stevenshenager.edu,stevens  henager college
+398,stmartin.edu,saint martins university
+399,stratford.edu,stratford university
+400,strayer.edu,strayer university llc
+401,Strayer.edu,strayer university llc
+402,stu.centralaz.edu,central arizona college
+403,stu.clcillinois.edu,college of lake county
+404,stu.ctcd.edu,central texas college
+405,stu.cypresstech.edu,cypresstech llc
+406,stu.fnu.edu,florida national university
+407,stu.jjc.edu,joliet junior college
+408,stu.laroche.edu,la roche college
+409,stu.southernregional.edu,southern regional technical college
+410,stuctcd.edu
+411,student.albanytech.edu,albany technical college
+412,student.allegany.edu,allegany college of maryland
+413,student.american.edu,american university
+414,student.bpcc.edu,bossier parish community college
+415,student.cccs.edu,colorado community college system
+416,student.citruscollege.edu,citrus college
+417,student.coastalpines.edu,coastal pines technical college
+418,student.commnet.edu,manchester community college
+419,student.cqlc.edu,student u
+420,student.cravencc.edu,craven community college
+421,student.cvtc.edu,chippewa valley technical college
+422,student.dcccd.edu,dallas county community college district
+423,student.eastcentral.edu,east central college
+424,student.edu,student
+425,student.emcc.edu
+426,student.evergladesuniversity.edu,everglades university
+427,student.faytechcc.edu,fayetteville technical community college
+428,student.fscj.edu,florida state college at jacksonville
+429,student.gpc.edu,gpc education pty ltd
+430,student.hagerstowncc.edu,hagerstown community college
+431,student.holmescc.edu,holmes community college
+432,student.kendall.edu,kendall college
+433,student.laccd.edu,los angeles community college district
+434,student.lccc.wy.edu,laramie county community college
+435,student.lssc.edu,lake  sumter community college
+436,student.morainevalley.edu,moraine valley community college
+437,student.mtsierra.edu,sierra college
+438,student.nctc.edu,north central texas college
+439,student.oaklandcc.edu,oakland community college
+440,student.oftc.edu
+441,student.pillar.edu,pillar college
+442,student.rsu.edu,rogers state university
+443,student.savannahstate.edu,savannah state university
+444,student.sc4.edu,st clair county community college
+445,student.scf.edu,state college of florida
+446,student.tacomacc.edu,tacoma community college
+447,student.tsc.edu,texas southmost college
+448,student.umuc.edu,university of maryland global campus
+449,student.westgatech.edu,west georgia technical college
+450,student.wwcc.edu,western wyoming community college
+451,students.an.edu,american national university
+452,students.ccsnh.edu,community college system of new hampshire
+453,students.clark.edu,clark college
+454,students.cookman.edu
+455,students.drakestate.edu,jf drake state technical college
+456,students.ecpi.edu,ecpi university
+457,students.ecsu.edu,elizabeth city state university
+458,students.forsythtech.edu,forsyth technical community college
+459,students.fscj.edu,florida state college at jacksonville
+460,students.kennesaw.edu,kennesaw state university
+461,students.niu.edu
+462,students.pensacolastate.edu
+463,students.pgcc.edu,prince georges community college
+464,students.post.edu,post university
+465,students.randolph.edu,randolph community college
+466,students.southplainscollege.edu,south plains college
+467,students.tcatmurfreesboro.edu,Cynthia Beverley
+468,students.tesc.edu,thomas edison state university
+469,students.tesu.edu,thomas edison state university
+470,students.tulsatech.edu,tulsa technology center
+471,students.uwf.edu,university of west florida
+472,students.vsu.edu
+473,studentsccsnh.edu,university of california los angeles
+474,sullivan.edu,sullivan university
+475,sum.edu,sum bible college and theological seminary
+476,sunbury.mccann.edu
+477,svsu.edu
+478,sw.edu
+479,swccd.edu
+480,sycamores.indstate.edu
+481,syr.edu
+482,tacomacc.edu
+483,tamu.edu
+484,tcatjacksboro.edu,campbell county
+485,tcatlivingston.edu,Jon Hesson
+486,tcatripley.edu
+487,tcc.edu,tidewater community college
+488,tccd.edu,tarrant county college
+489,temple.edu,temple university
+490,tigers.nemcc.edu,northeast mississippi community college
+491,titans.easternflorida.edu,efsc titans
+492,tncc.edu,thomas nelson community college
+493,trnty.edu,trinity christian college
+494,troy.edu,troy university
+495,tulsatech.edu,tulsa technology center
+496,tulstech.edu,tulsa technology center
+497,txstate.edu,texas state university
+498,uab.edu
+499,uah.edu,university of alabama huntsville
+500,uccs.edu
+501,ucf.edu,university of central florida
+502,ucmail.uc.edu,university of cincinnati
+503,ucumberands.edu,university of the cumberlands
+504,ucumberlands.edu
+505,udallas.edu,university of dallas
+506,ufl.edu,university of florida
+507,uky.edu,university of kentucky
+508,umail.utah.edu
+509,umd.edu,university of maryland
+510,umn.edu,university of minnesota
+511,unchealth.unc.edu,unc health care
+512,unlv.edu,university of nevada
+513,uphs.upenn.edu
+514,usi.edu,university of southern indiana
+515,utah.edu,university of utah
+516,utdallas.edu,university of texas at dallas
+517,utm.edu
+518,utrgv.edu
+519,uw.edu,university of washington
+520,uwrf.edu,university of wisconsin  river falls
+521,valdosta.edu,valdosta state university
+522,valenciacollege.edu,valencia college
+523,valley.edu,valley college
+524,vantage.edu,vantage
+525,vc.edu,venture university
+526,vcu.edu,virginia commonwealth university
+527,vernoncollege.edu,vernon college
+528,vgcc.edu,vance  granville community college
+529,vikings.sjrstate.edu,sjr athletic company inc
+530,virginia.edu,university of virginia health system
+531,vistacollege.edu,vista collegecom
+532,volmail.jalc.edu,volmail
+533,volmail.jslc.edu,the university of tennessee knoxville
+534,vols.utk.edu,the university of tennessee knoxville
+535,volstate.edu,volunteer state community college
+536,vt.edu,virginia polytechnic institute state university
+537,vwu.edu,virginia wesleyan university
+538,waketech.edu,wake technical community college
+539,waldenu.edu,walden university
+540,wau.edu,washington adventist university
+541,wctc.edu,waukesha county technical college
+542,westliberty.edu,west liberty university
+543,westshore.edu,west shore esd
+544,westwood.edu,westwood college
+545,wgu.edu,western governors university
+546,wilkes-barre.mccann.edu
+547,wingate.edu
+548,wolf.cheyney.edu,cheyney university
+549,wolfmail.sunyacc.edu,lake placid region
+550,wti.edu,wichita technical institute
+551,wvup.edu
+552,wwcc.edu,western wyoming community college
+553,ycp.edu,york college of pennsylvania
+554,yorktech.edu,york technical college
+555,zonemail.clpccd.edu,chabot college
